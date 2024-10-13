@@ -3,7 +3,9 @@
 theme: default
 # random image from a curated Unsplash collection by Anthony
 # like them? see https://unsplash.com/collections/94734566/slidev
-background: https://cover.sli.dev
+background: ./background.png
+presenter: false
+download: false
 # some information about your slides (markdown enabled)
 title: Welcome to Slidev
 info: |
@@ -21,7 +23,7 @@ transition: slide-left
 # enable MDC Syntax: https://sli.dev/features/mdc
 mdc: true
 # take snapshot for each slide in the overview
-overviewSnapshots: true
+overviewSnapshots: no
 ---
 
 # Welcome to Slidev
