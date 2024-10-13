@@ -3,7 +3,6 @@
 theme: default
 # random image from a curated Unsplash collection by Anthony
 # like them? see https://unsplash.com/collections/94734566/slidev
-background: /background.png
 presenter: false
 download: false
 # some information about your slides (markdown enabled)
@@ -45,6 +44,13 @@ Presentation slides for developers
     <carbon-logo-github />
   </a>
 </div>
+
+<style>
+* {
+background-color: #0d0e12;
+}
+</style>
+
 
 <!--
 The last comment block of each slide will be treated as slide notes. It will be visible and editable in Presenter Mode along with the slide. [Read more in the docs](https://sli.dev/guide/syntax.html#notes)
