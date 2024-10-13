@@ -3,7 +3,7 @@
 theme: default
 # random image from a curated Unsplash collection by Anthony
 # like them? see https://unsplash.com/collections/94734566/slidev
-background: ./background.png
+background: background.png
 presenter: false
 download: false
 # some information about your slides (markdown enabled)
