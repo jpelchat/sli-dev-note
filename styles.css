@@ -7,12 +7,8 @@ nav {
 }
 
 .slidev-page {
-    background-color: #0d0e12 ;
+    background-image: url("bg.png");
     font-family: "Inter", sans-serif;
+    background-size: contain;
     font-weight: 200;
-    object-fit: cover;
-}
-
-body {
-    background-color: #0d0e12 ;
 }
