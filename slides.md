@@ -30,7 +30,7 @@ overviewSnapshots: no
 
 <div class="pt-12" >
   <span glowing-border @click="$slidev.nav.next" class="px-2 py-1 rounded cursor-pointer" hover="bg-white bg-opacity-10">
-    Click here for lab overview <carbon:arrow-right class="inline"/>
+    Click here for lab overview
   </span>
 </div>
 
@@ -52,7 +52,7 @@ Slidev is a slides maker and presenter designed for developers, consist of the f
 <br>
 <br>
 
-Read more about [Why Slidev?](https://sli.dev/guide/why)
+> Use arrow-keys or your space bar to navigate through pages.
 
 <!--
 You can have `style` tag in markdown to override the style for the current page.
