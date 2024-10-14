@@ -1,2 +1,8 @@
 /* styles.css */
-nav { display: none !important; }
+nav { 
+    display: none !important; 
+}
+
+.slidev-page {
+    background-color: #0d0e12 ;
+}
