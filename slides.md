@@ -26,9 +26,8 @@ mdc: true
 overviewSnapshots: no
 ---
 
-# Data in Grafana Cloud
-
-<div class="pt-12" >
+<div style="margin:auto" class="pt-12" >
+   <video style="width:100px; margin: auto;" loop autoplay src="./loop.mp4"> </video> 
   <span glowing-border @click="$slidev.nav.next" class="px-2 py-1 rounded cursor-pointer" hover="bg-white bg-opacity-10">
     Click here for lab overview
   </span>
