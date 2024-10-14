@@ -19,23 +19,23 @@ class: text-center
 drawings:
   persist: false
 # slide transition: https://sli.dev/guide/animations.html#slide-transitions
-transition: fade-out
+transition: slide-up
 # enable MDC Syntax: https://sli.dev/features/mdc
 mdc: true
 # take snapshot for each slide in the overview
 overviewSnapshots: no
 ---
 
-# Grafana Labs
+# Data in Grafana Cloud
 
 <div class="pt-12" >
-  <span autofocus @click="$slidev.nav.next" class="px-2 py-1 rounded cursor-pointer" hover="bg-white bg-opacity-10">
-    Press Space for next page <carbon:arrow-right class="inline"/>
+  <span glowing-border @click="$slidev.nav.next" class="px-2 py-1 rounded cursor-pointer" hover="bg-white bg-opacity-10">
+    Click here for lab overview <carbon:arrow-right class="inline"/>
   </span>
 </div>
 
 ---
-transition: fade-out
+transition: slide-up
 ---
 
 # What is Slidev?
