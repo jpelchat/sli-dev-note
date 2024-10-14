@@ -5,6 +5,7 @@ theme: default
 # like them? see https://unsplash.com/collections/94734566/slidev
 presenter: false
 download: false
+contextMenu: false
 # some information about your slides (markdown enabled)
 title: Welcome to Slidev
 info: |
@@ -46,14 +47,7 @@ Presentation slides for developers
 </div>
 
 <style>
-* {
-background-color: #0d0e12;
-}
-
-footer {
-    display: none;
-}
-
+nav { display: none !important; }
 </style>
 
 
