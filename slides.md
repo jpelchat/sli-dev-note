@@ -32,7 +32,7 @@ layout: center
 </p>
 
 <p text-center> 
-You can store and visualize data with dashboards, <br> receive alerts when things go wrong, and much more.
+You can store and visualize data, <br> receive alerts when things go wrong, and much more.
 </p>
 
 <p text-center>
