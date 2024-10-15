@@ -63,7 +63,7 @@ layout: center
 <p text-center> 
 <strong>Metrics</strong> are a type of data Alloy collects. <br> 
 A metric is a number measured at a specific point in time. <br><br>
-Metrics give you a sense of how your systems are <br> performing over time, and spot abnormal patterns.
+Metrics give you a sense of how your systems are <br> performing over time, and help you spot abnormal patterns.
 </p>
 
 <br><br><br>
@@ -89,5 +89,5 @@ layout: center
 ---
 
 <p text-center> 
-Click <strong>Start</strong> in the lower-left corner, once your lab is ready.
+Click <strong>Start</strong> in the lower-right corner, once your lab is ready.
 </p>
