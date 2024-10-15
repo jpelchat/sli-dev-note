@@ -18,26 +18,27 @@ overviewSnapshots: no
   <div text-center> 
     <span @click="$slidev.nav.next" class="px-2 py-1 rounded cursor-pointer">
     <img style="margin:auto" width="200px" src="./grot.gif"></span>
-    Click <strong>Grot</strong> to start.
+    Click <strong>Grot</strong> to view instructions. <br>
   </div>
 </div>
 
 ---
 transition: fade
+layout: center
 ---
 
-# Challenges
+<div text-center><h3>Challenges</h3></div>
 
-|     |     |
+|  |  |
 | --- | --- |
-| <kbd>Challenge 1</kbd> | 🤖 Install Alloy on a host |
-| <kbd>Challenge 2</kbd> | 🛠️ Configure Alloy to collect metrics |
-| <kbd>Challenge 3</kbd> | 🔎 Explore metrics in Grafana Cloud |
+| <kbd>1</kbd> | 🤖 Install Alloy on a Linux host |
+| <kbd>2</kbd> | 🛠️ Configure Alloy to collect metrics |
+| <kbd>3</kbd> | 🔎 Explore metrics in Grafana Cloud |
 
-Use <kbd>←</kbd> <kbd>→</kbd> or <kbd>space</kbd> to navigate pages. <br><br>
+<br><br><br>
+
+<div text-center> Use <kbd>←</kbd> <kbd>→</kbd> or <kbd>space</kbd> to navigate pages. </div>
 
 ---
-transition: slide-up
+transition: fade
 ---
-
-# Challenges
